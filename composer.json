@@ -8,5 +8,6 @@
         "phpunit/phpunit": "*"
     },
     "autoload": {
+        "classmap": ["src/Ace/RouterResolver.php"]
     }
 }
