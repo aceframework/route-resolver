@@ -1,0 +1,12 @@
+{
+    "name": "ace/router-resolver",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+    }
+}
