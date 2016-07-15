@@ -2,7 +2,7 @@
 
 namespace Ace;
 
-class RouterResolver
+class RouteResolver
 {
     public static function resolve()
     {
